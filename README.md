@@ -116,6 +116,7 @@ EasyMaps / <Region>
 
 ## Documentation
 
+- `USAGE.md` — Main tool usage guide (how to use the pipeline)
 - `INSTALL.md` — Install EasyMaps on your Garmin device *(coming soon)*
 - `BUILD.md` — Build your own Garmin maps *(planned)*
 - `CHANGELOG.md` — Release history
